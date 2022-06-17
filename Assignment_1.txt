@@ -1,0 +1,34 @@
+Q.1 Why does the computer understand only binary digits?
+
+Ans.1 Since the computer's amin memory consists of transiters and transisters
+consist of switches and they work on high and low volatages sometimes 5V(On) or 
+0V(off).
+
+Q.2 What is the full form of IDE?
+
+Ans.2 IDE satnds for INTEGRATED DEVELOPMENT ENVIORMENT.
+
+Q.3 What is difference between  ttext editor and code editor?
+
+Ans.3 A text editor simply allows to write & edit the text, it doesn't have anything built in to help to write code
+but a code editor is known as also a text editor and it allows to write code.
+
+Q.4 What's difference b/w systm software and application software?
+
+Ans.4 System software is basically designed for another software any computer system cannot run without a system software,
+but an app;ication software is basically designed for speciffic tasks. Any system can run easily without an application software.
+
+Q.5 Who was the developer of C language and what is latest version is going on?
+
+Ans.5 Sir Dennis Richie was the developer of C language in 1970 at AT & T's Lab in USA.
+      Here is C 17 version of C is going in present time.
+
+
+    Thank You Sir! 
+ 	
+    DATE- 17/Jun/2022
+
+																				Yours obediently
+																				Name- Virendra Kumar
+																				E-mail- virendrashukla142@gmail.com
+   NOte: Sorry, for I'm late to summit the assignment.
